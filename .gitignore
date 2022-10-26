@@ -1,0 +1,9 @@
+# Not completely satisfied with this solution yet...
+Practice 11/ 
+
+# Java compiled code
+*.class
+
+# IDEA files
+.idea
+out
